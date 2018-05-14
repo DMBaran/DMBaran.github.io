@@ -1,0 +1,38 @@
+body {
+  background-image: url('./components/Charlotte.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
+.aboutMe {
+  background-color: white;
+}
+
+.aboutMe p {
+  line-height: 2em;
+}
+
+.connectWithMe {
+  text-align: center;
+  background-color: white; 
+  padding-bottom: 10px;
+}
+
+#submitButton {
+  margin: 10px 0;
+}
+
+.gallery {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.galleryText {
+  position: absolute;
+  bottom: 10%;
+  text-align: center;
+  width: 100%;
+  padding: 5px 0;
+  background-color: teal;
+  color: white;
+}
